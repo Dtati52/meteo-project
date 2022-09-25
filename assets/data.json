@@ -1,0 +1,47 @@
+{
+  "version": "0.1",
+  "status": "OK",
+  "data": [
+    {
+      "id": 1,
+      "name": "Paris",
+      "pays" : "France",
+      "latitude": "48.864716",
+      "longitude": "2.349014",
+      "image": "assets/images/paris.jpg"
+    }
+    ,{
+        "id": 2,
+        "name": "Rabat",
+        "pays" : "Maroc",
+        "latitude": "33.9715904",
+        "longitude": "-6.8498129",
+        "image": "assets/images/rabat.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Brazzaville",
+      "pays" : "Congo",
+      "latitude": "33.ssfv",
+      "longitude": "-648498129",
+      "image": "assets/images/brazza.jpg"
+  }
+  ,{
+    "id": 4,
+    "name": "Londres",
+    "pays" : "Angleterre",
+    "latitude": "23.9715904",
+    "longitude": "-5.8498129",
+    "image": "assets/images/londres.jpg"
+}
+,{
+  "id": 5,
+  "name": "Dubai",
+  "pays" : "Émirats arabes unis",
+  "latitude": "77.9715904",
+  "longitude": "-2.8498129",
+  "image": "assets/images/dubai.jpg"
+}   
+]
+
+}
